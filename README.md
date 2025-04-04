@@ -23,18 +23,22 @@ Using publicly available datasets from the New York State Education Department a
 - Data cleaning, merging, and feature engineering
 - Cross-validation (5-fold)
 - Exploratory data analysis & subgroup comparisons
-- Interactive data visualizations (optional: add screenshots if you have them)
 
-## 🔗 Live Website
+## 🔗 Live Project Page
 
-[View Project Page](https://ethanperello.github.io/New-York-Student-Outcomes-and-School-Closures/)
+[View Project](https://ethanperello.github.io/New-York-Student-Outcomes-and-School-Closures/)
 
-## 📁 GitHub Repository
+## 🤝 Collaborators
 
-[NYC School Closure Repo](https://github.com/EthanPerello/New-York-Student-Outcomes-and-School-Closures)
+This project was completed in collaboration with **Adam Goodman**.
+
+### My primary contributions:
+- Conducted subgroup analysis across race and gender
+- Engineered features for predictive modeling
+- Trained and evaluated the logistic regression model
 
 ## 🧠 What I Learned
 
-- How to use data science techniques to analyze real-world policy-related data
-- How subgroup analysis can reveal hidden patterns in education outcomes
-- How to train and validate a logistic regression model for real-world classification
+- How subgroup performance data can signal system-wide issues
+- The power of simple models (like logistic regression) when paired with clean, insightful features
+- How to extract insight from large datasets and translate it into actionable outcomes
