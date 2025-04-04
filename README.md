@@ -25,13 +25,6 @@ Using publicly available datasets from the New York State Education Department a
 - Exploratory data analysis & subgroup comparisons
 - Interactive data visualizations (optional: add screenshots if you have them)
 
-## 🗂️ File Structure
-
-- `data/`: Raw and cleaned datasets
-- `notebooks/`: Jupyter notebooks for exploration, modeling, and visualization
-- `predict_closure.py`: Script for training and testing the model
-- `charts/`: (Optional) Visualizations showing dropout rates, closure trends, etc.
-
 ## 🔗 Live Website
 
 [View Project Page](https://ethanperello.github.io/New-York-Student-Outcomes-and-School-Closures/)
